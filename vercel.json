@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://accounting-20.frontly.ai/$1"
+ }
+  ]
+}
